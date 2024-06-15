@@ -2,9 +2,9 @@
 ---
 #### For Italic
 
-* This is in Italic *
+*This is in Italic*
 
-  ---
-  ### For Bold
+---
+### For Bold
 
-  This is in **Bold**
+This is in **Bold**
