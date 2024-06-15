@@ -12,4 +12,4 @@ This is in **Bold**
 ---
 #### For Links
 
-[This is the website](https://yush.dev)
+![This is the website](https://yush.dev)
